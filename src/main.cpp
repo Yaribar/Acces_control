@@ -13,8 +13,8 @@ const String serial_number = "123456789";
 //const char* ssid = "Telcel-HUAWEI-B311-520-BFA6"; //WiFi Network
 //const char* password = "95HNEAD2ERD"; //WiFi's password
 
-const char* ssid = "bluetele9C32"; //WiFi Network
-const char* password = "2B6FF3E1"; //WiFi's password
+const char* ssid = ""; //WiFi Network
+const char* password = ""; //WiFi's password
 
 //To avoid the DHCP assign us an IP or the router dont have DHCP we can select a fix ip
 //IPAddress local_IP(192,168,0,184);
